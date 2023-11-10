@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyams-Sharma
-- 👀 I’m interested in error
-- 📫 Contact me with ss8454015344@gmail.com
+- 👀 I’m passionate and enjoying in full-stack developer. 
+- 📫 Contact me with ss8454015344@gmail.com.
 
 <!---
 Satyams-23/Satyams-23 is a ✨ special ✨ repository because its appears on your GitHub profile.
