@@ -2,6 +2,11 @@
 
 ## About Me
 I'm a passionate full-stack developer, always exploring new technologies and creating innovative solutions.
+
+## Technologies
+- 💻 Frontend: HTML, CSS, JavaScript, React
+- 🖥️ Backend: Node.js, Express, MongoDB, Typescript
+- 🚀 Tools: Git, VSCode
   
 ## Contact
 - 📧 Email: ss8454015344@gmail.com
@@ -15,7 +20,7 @@ I'm a passionate full-stack developer, always exploring new technologies and cre
 Subscribe to my YouTube channel for tech tutorials, coding challenges, and more! 🚀
 - [Confuse Coder](http://www.youtube.com/@ConfuseCoder23)
 
-- 
+
 <!---
 Satyams-23/Satyams-23 is a ✨ special ✨ repository because its appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
