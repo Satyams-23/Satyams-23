@@ -4,7 +4,7 @@
 I'm a passionate full-stack developer, always exploring new technologies and creating innovative solutions.
 
 ## Technologies
-- 💻 Frontend: HTML, CSS, JavaScript, React
+- 💻 Frontend: HTML, CSS, JavaScript, React, Next.js
 - 🖥️ Backend: Node.js, Express, MongoDB, Typescript
 - 🚀 Tools: Git, VSCode
   
