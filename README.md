@@ -6,7 +6,7 @@ I'm a passionate full-stack developer, always exploring new technologies and cre
 ## Contact
 - 📧 Email: ss8454015344@gmail.com
 - 🌐 Portfolio: [Satyam's Portfolio](https://satyamportfolio.vercel.app/)
-- 📺 YouTube: [Confuse Coderl](http://www.youtube.com/@ConfuseCoder23)
+- 📺 YouTube: [Confuse Coder](http://www.youtube.com/@ConfuseCoder23)
 
   ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/satyam-sharma-7530b9280)
