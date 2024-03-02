@@ -28,7 +28,7 @@ Subscribe to my YouTube channel for tech tutorials, coding challenges, and more!
 </a>
 
 <a href="https://github.com/Satyams-2/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyams-2e&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyams-2&layout=compact&theme=radical" />
 </a>
 
 <!-- End GitHub Readme Stats -->
