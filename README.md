@@ -55,12 +55,12 @@ You can click the Preview link to take a look at your changes.
 
 ## Social Media
 <div align="left">
-  [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](http://www.youtube.com/@ConfuseCoder23)
-  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/your_instagram_username/)
-  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:ss8454015344@gmail.com)
-  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/satyam-sharma-7530b9280)
+  [![YouTube](https://img.shields.io/badge/Youtube-ConfuseCoder-red?style=for-the-badge&logo=youtube)](http://www.youtube.com/@ConfuseCoder23)
+  [![Instagram](https://img.shields.io/badge/Instagram-YourInstagramUsername-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/your_instagram_username/)
+  [![Gmail](https://img.shields.io/badge/Gmail-ss8454015344%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ss8454015344@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-SatyamSharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-sharma-7530b9280)
 </div>
-</div>
+
 
 ###
 
