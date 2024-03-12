@@ -14,10 +14,12 @@ Hi there! I'm Satyams Sharma, a passionate full-stack developer who loves explor
 - 📺 **YouTube:** [Confuse Coder](http://www.youtube.com/@ConfuseCoder23)
 
 ## Social Media
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-SatyamSharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-sharma-7530b9280)
-  [![YouTube](https://img.shields.io/badge/YouTube-ConfuseCoder23-red?style=for-the-badge&logo=youtube)](http://www.youtube.com/@ConfuseCoder23)
-</div>
+- [LinkedIn](https://www.linkedin.com/in/satyam-sharma-7530b9280)
+
+## YouTube Channel
+Subscribe to my YouTube channel for tech tutorials, coding challenges, and more! 🚀
+- [Confuse Coder](http://www.youtube.com/@ConfuseCoder23)
+
 
 ## GitHub Stats
 <div align="center">
