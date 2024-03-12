@@ -16,7 +16,7 @@ Hi there! I'm Satyams Sharma, a passionate full-stack developer who loves explor
 ## Social Media
 <div align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-SatyamSharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-sharma-7530b9280)
-  [![YouTube](https://img.shields.io/badge/YouTube-ConfuseCoder-red?style=for-the-badge&logo=youtube)](http://www.youtube.com/@ConfuseCoder23)
+  [![YouTube](https://img.shields.io/badge/YouTube-ConfuseCoder23-red?style=for-the-badge&logo=youtube)](http://www.youtube.com/@ConfuseCoder23)
 </div>
 
 ## GitHub Stats
