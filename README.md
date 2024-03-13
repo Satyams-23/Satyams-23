@@ -24,17 +24,17 @@ Subscribe to my YouTube channel for tech tutorials, coding challenges, and more!
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="flex: 1 0 45%; padding: 10px;">
+  <div style="flex: 1 0 30%; padding: 10px;">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Satyams-23&show_icons=true&locale=en" alt="Satyams-23" />
     </p>
   </div>
-  <div style="flex: 1 0 45%; padding: 10px;">
+  <div style="flex: 1 0 30%; padding: 10px;">
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyams-23" alt="Satyams-23" />
     </p>
   </div>
-  <div style="flex: 1 0 45%; padding: 10px;">
+  <div style="flex: 1 0 30%; padding: 10px;">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyams-23&layout=compact" alt="Satyams-23" />
     </p>
