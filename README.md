@@ -39,14 +39,8 @@ Subscribe to my YouTube channel for tech tutorials, coding challenges, and more!
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyams-23&layout=compact" alt="Satyams-23" />
     </p>
   </div>
-  <div style="flex: 1 0 45%; padding: 10px;">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Satyams-23&layout=compact" alt="Satyams-23" />
-    </p>
-  </div>
 </div>
 
-##
 
 
 
