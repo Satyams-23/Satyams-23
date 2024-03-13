@@ -27,5 +27,18 @@ Subscribe to my YouTube channel for tech tutorials, coding challenges, and more!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyams-23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div style="display: flex-row;">
+  <div style="flex: 1; padding: 10px;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Satyams-23&show_icons=true&locale=en" alt="Satyams-23" />
+    </p>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyams-23" alt="Satyams-23" />
+    </p>
+  </div>
+</div>
+
 
 ##
