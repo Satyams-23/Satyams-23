@@ -28,8 +28,7 @@ Subscribe to my YouTube channel for tech tutorials, coding challenges, and more!
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Satyams-23&show_icons=true&locale=en" alt="Satyams-23" />
     </p>
-  </div>
-  <div style="flex: 1; padding: 10px;">
+  </div><div style="flex: 1; padding: 10px;">
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyams-23" alt="Satyams-23" />
     </p>
