@@ -9,7 +9,7 @@ Hi there! I'm Satyams Sharma, a passionate full-stack developer who loves explor
 - 🚀 **Tools:** Git, VSCode
   
 ## Contact
-- 📧 **Email:** ss8454015344@gmail.com
+- 📧 **Email:** satyamsharma231101@gmail.com
 - 🌐 **Portfolio:** [Satyam's Portfolio](https://satyamportfolio.vercel.app/)
 - 📺 **YouTube:** [Confuse Coder](http://www.youtube.com/@ConfuseCoder23)
 
