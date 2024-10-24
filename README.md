@@ -4,10 +4,21 @@
 Hi there! I'm Satyams Sharma, a passionate full-stack developer who loves exploring new technologies and creating innovative solutions.
 
 ## Technologies
-- 💻 **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- 🖥️ **Backend:** Node.js, Express, MongoDB, Typescript
-- 🚀 **Tools:** Git, VSCode
+- 💻 **Frontend:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+- 🖥️ **Backend:** Node.js, Express, MongoDB, Typescript, Redis
+- 🚀 **Tools:** Git, VSCode, AWS (S3), Shopify
+
+## Work Experience
+- **Full Stack Web Developer Intern** at **Arihant Digiprint (Mr. POD)**  
+  Integrated Google Maps APIs, developed wallet functionality, and improved platform performance.
   
+- **Backend Developer Intern** at **Ricoz**  
+  Enhanced backend scalability, reduced API response times, and led a cross-functional team.
+
+## Projects
+- **POS System**: Integrated multi-shop functionality with automated stock management.
+- **Collab Karo**: Scalable backend with real-time social media data fetching.
+
 ## Contact
 - 📧 **Email:** satyamsharma231101@gmail.com
 - 🌐 **Portfolio:** [Satyam's Portfolio](https://satyamportfolio.vercel.app/)
@@ -15,11 +26,6 @@ Hi there! I'm Satyams Sharma, a passionate full-stack developer who loves explor
 
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/satyam-sharma-7530b9280)
-
-## YouTube Channel
-Subscribe to my YouTube channel for tech tutorials, coding challenges, and more! 🚀
-- [Confuse Coder](http://www.youtube.com/@ConfuseCoder23)
-
 
 ## GitHub Stats
 
@@ -40,8 +46,3 @@ Subscribe to my YouTube channel for tech tutorials, coding challenges, and more!
     </p>
   </div>
 </div>
-
-
-
-
-##
